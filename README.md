@@ -1,6 +1,6 @@
 # userglob
 
-[![Build Status](https://travis-ci.org/hazaelsan/userglob?branch=master)](https://travis-ci.org/hazaelsan/userglob)
+[![Build Status](https://travis-ci.org/hazaelsan/userglob.svg?branch=master)](https://travis-ci.org/hazaelsan/userglob)
 [![GoDoc](https://godoc.org/github.com/hazaelsan/userglob?status.svg)](https://godoc.org/github.com/hazaelsan/userglob)
 
 User homedir globbing for Go.
