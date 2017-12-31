@@ -1,5 +1,21 @@
 # userglob
+
+[![Build Status](https://travis-ci.org/hazaelsan/userglob?branch=master)](https://travis-ci.org/hazaelsan/userglob)
+[![GoDoc](https://godoc.org/github.com/hazaelsan/userglob?status.svg)](https://godoc.org/github.com/hazaelsan/userglob)
+
 User homedir globbing for Go.
+
+## Installation
+
+```shell
+go get -u github.com/hazaelsan/userglob
+```
+
+## Import
+
+```go
+import "github.com/hazaelsan/userglob"
+```
 
 ## Usage
 
