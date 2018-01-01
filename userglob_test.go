@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-func TestExpandTilde(t *testing.T) {
+func TestGlob(t *testing.T) {
 	root, err := user.LookupId("0")
 	if err != nil {
 		t.Fatal(err)
